@@ -1,0 +1,7 @@
+Satisfied:
+FIO50-CPP, FIO51-CPP: satisfied, no files used
+FIO30-C: satisfied
+ERR50-CPP: we do not abruptly terminate the program
+ERR51-CPP: all exceptions are handled
+ERR52-CPP: we do not use setjmp() or longjmp()
+ERR53-CPP: we do not use function-try-blocks so this is satisfied
